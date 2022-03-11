@@ -1,0 +1,31 @@
+.he1 {
+    color: #ffffff;
+    background-color: #000000;
+    font-size: 20px;
+    font-family:fantasy;
+    box-sizing: content-box;
+    margin-top: 20px;
+    }
+.he2{
+    color:#e0e016;
+    font-size: 20px;
+    background-color: rgb(17, 181, 17);
+    font-family: fantasy;
+    margin-top: 10px;
+    
+}
+h3
+{
+    background: "image1"
+    margin-left: 10px;
+}
+.he3{
+    text-align: justify;
+    margin: 10px;
+    border: 2px solid ;
+    padding-left: 10px
+}
+.one
+{
+    float: left
+}
